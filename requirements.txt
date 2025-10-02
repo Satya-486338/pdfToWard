@@ -1,5 +1,5 @@
 
 ocrmypdf
-pdf2docx
 tk
+# Tesseract OCR and Ghostscript are installed and added to the system’s PATH on the target machine.
 # Note: tkinter is built into Python, so you don’t need to install it separately—but some environments may require tk in the requirements file
