@@ -1,0 +1,5 @@
+
+ocrmypdf
+pdf2docx
+tk
+# Note: tkinter is built into Python, so you don’t need to install it separately—but some environments may require tk in the requirements file
